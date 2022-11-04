@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadMudassir7
 - 👀 I’m interested in mean and mern stack development 
 - 🌱 I’m currently learning angular 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on react js projects
 - 📫 How to reach me aabb125890@gmail.com
 
 <!---
